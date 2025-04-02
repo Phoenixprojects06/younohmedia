@@ -5,6 +5,10 @@ body {
     font-family: "Mazzard H", sans-serif !important;
 }
 
+p{
+    font-size: 14px;
+}
+
 .navbar-brand {
     width: 75%;
 }
