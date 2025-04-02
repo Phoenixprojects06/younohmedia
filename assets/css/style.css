@@ -562,7 +562,7 @@ path {
     }
 
     .hero-title {
-        width: 54%
+        width: 70%
     }
 
     .hero-btn {
@@ -634,6 +634,11 @@ path {
     .underline-partner{
         bottom: 69px;
     left: 550px;
+    }
+
+    svg.underline {
+        width: 300px;
+        height: auto;
     }
 
 }
